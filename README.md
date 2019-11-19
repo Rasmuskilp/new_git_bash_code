@@ -16,3 +16,6 @@ push it to github
 #create location(folder) mkdir
 #create a file touch [file]
 #delete a file/dir rm -rf {file}
+#git add .
+#git commit -m 'say sth'
+#git push origin master
